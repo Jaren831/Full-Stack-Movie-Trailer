@@ -9,7 +9,7 @@ drive = movie.Movie("Drive",
 # Battleship
 battleship = movie.Movie("Battleship",
                         "https://upload.wikimedia.org/wikipedia/en/6/6e/Battleship_Poster.jpg",  # NOQA
-                        "https://www.youtube.com/watch?v=qcmYSxnYZV4")
+                        "https://www.youtube.com/watch?v=qcmYSxnYZV4")  # NOQA
 
 # The Matrix
 the_matrix = movie.Movie("The Matrix",
