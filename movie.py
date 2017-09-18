@@ -1,8 +1,10 @@
 import webbrowser
 
+
 class Movie():
-    """Thia class constructs movie objects with movie title, movie poster, and youtube trailer. Takes array of strings as input."""
-    
+    """This class constructs movie objects with movie title,
+     movie poster, and youtube trailer. Takes array of strings as input."""
+
     def __init__(self, movie_title, poster_image_url, trailer_youtube_url):
         """
         movie_title(str): Title of movie
